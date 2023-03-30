@@ -1,6 +1,6 @@
 import HomeView from '../views/HomeView.vue'
 
-const routes = [
+const commonRoutes = [
   {
     path: '/',
     name: 'home',
@@ -16,4 +16,4 @@ const routes = [
   }
 ]
 
-export default routes
+export default commonRoutes
